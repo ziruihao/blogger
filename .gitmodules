@@ -1,0 +1,6 @@
+[submodule "crud-server"]
+	path = crud-server
+	url = https://github.com/dartmouth-cs52-19S/lab5-ziruihao.git
+[submodule "crud-client"]
+	path = crud-client
+	url = https://github.com/dartmouth-cs52-19S/lab4-ziruihao.git
